@@ -52,11 +52,12 @@ const Footer = () => {
               </ul>
             </div>
             <div className="col-md-4 col-sm-6">
-              <div className="newslatter">
+              <form action="news.php">
+              <div className="newsletter">
                 <h2>
                   Vuoi rimanere aggiornato? <br></br>Iscriviti alla newsletter
                 </h2>
-                <input type="EMAIL" placeholder="Indirizzo Email" />
+                <input type="EMAIL" placeholder="Indirizzo Email" name="Email"/>
                 <p style={{ fontSize: "13px" }}>
                   Letta l’informativa <a href="/Privacy">privacy</a> cliccando
                   su “registrazione” acconsento al trattamento dei miei dati per
@@ -68,7 +69,9 @@ const Footer = () => {
                   Iscriviti
                 </button>
               </div>
+              </form>
             </div>
+            
           </div>
           <div className="copyright_area">
             <div className="row">

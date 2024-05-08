@@ -9,6 +9,7 @@ import TimDetailsCopy from "@/components/TimDetailsCopy";
 
 
 
+
 const TimDetailsPage = () => {
   return (
     <MenuContextProvider>

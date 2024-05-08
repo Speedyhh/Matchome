@@ -1,4 +1,7 @@
 import React from "react";
+;
+
+
 function toggleDiv() {
   let value = document.getElementById("select").value;
   let div1 = document.getElementById("one");

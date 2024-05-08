@@ -1,5 +1,5 @@
 <?php
-$adminEmail = 'info@adextraitalia.it';
+$adminEmail = 'perugiagrifo2015@gmail.com';
 header("Location: contact.html", ); 
 
 

@@ -22,7 +22,8 @@
     "react-scroll": "^1.8.4",
     "react-visibility-sensor": "^5.1.1",
     "resend": "^3.2.0",
-    "swiper": "^7.0.6"
+    "swiper": "^7.0.6",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "eslint": "7.32.0",

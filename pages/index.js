@@ -20,7 +20,7 @@ const HomeOne = () => {
         <SliderOne />
         <div id="feature">
           <div
-            className="hero-section-title text-center"
+            className="hero-section-title text-center a"
             style={{ marginTop: "5%", marginBottom: "-3%" }}
           >
             <h1>SCEGLI L'OFFERTA E RISPARMIA</h1>
